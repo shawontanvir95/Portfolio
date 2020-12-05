@@ -1,0 +1,235 @@
+html {
+  font-size: 15px;
+  height: 100%;
+  font-family: "Garamond", Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+  
+  
+  
+  .col-md-3 .ps {
+      position: sticky;
+  }
+  .col-md-3 img{
+    width: 100px;
+    height: 100px;
+  }
+
+  .sidebar .main-div ul li img{
+    width: 120px;
+    height: 130px;
+  }
+
+  .sidebar .main-div ul li h2 {
+    margin-top: 1rem;
+    font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+    font-weight: bolder;
+    font-size: 1.5rem;
+  }
+
+  .sidebar .main-div ul li h2 a{
+    color: black;
+  }
+  
+  .col-md-3 h2{
+    margin-top: 1rem;
+    font-family: "Garamond", Baskerville, Baskerville Old Face, Hoefler Text, Times New Roman, serif;
+    font-weight: bolder;
+    font-size: 1.5rem;
+  }
+  
+  .col-md-3 h2 a{
+    color: black;
+  }
+  
+  .sidebar .main-div ul li h6 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 0.9rem;
+    color: #6699CC;
+  }
+
+  
+
+  .col-md-3 h6{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 0.9rem;
+    color: #6699CC;
+  }
+  .sidebar .main-div ul li .intro-email {
+    display: block;
+    margin-top: 1.5rem;
+  }
+
+  .sidebar .main-div ul li .intro-email .email-logo{
+    display: inline-block;
+  }
+
+  .sidebar .main-div ul li .intro-email .email-text {
+    display: inline-block;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  .col-md-3 .intro-email {
+    display: block;
+    margin-top: 1.5rem;
+  }
+  
+  .col-md-3 .intro-email .email-logo {
+    display: inline-block;
+    
+  }
+  
+  .col-md-3 .intro-email div a {
+    color: red;
+  }
+  
+  .col-md-3 .intro-email .email-text {
+    display: inline-block;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  .sidebar .main-div ul li .intro-social {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .col-md-3 .intro-social {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  .sidebar .main-div ul li .intro-social div {
+    margin-right: 0.8rem;
+    margin-left: 0.8rem;
+    font-size: 1.8rem;
+  }
+
+  .col-md-3 .intro-social div {
+    margin-right: 0.8rem;
+    margin-left: 0.8rem;
+    font-size: 1.8rem;
+  }
+  
+  .sidebar .main-div ul li .intro-social div a{
+    color: #6699CC;
+  }
+
+  .col-md-3 .intro-social div a {
+    color: 6699CC;
+  }
+  
+  .sidebar .main-div ul li .intro-menu div{
+    margin-left: 1.5rem;
+    margin-right:1.5rem;
+    text-align: center;
+  }
+  
+  .intro-menu div{
+    
+    margin-left: 1.5rem;
+    margin-right:1.5rem;
+    text-align: center;
+  }
+  
+  .sidebar .main-div ul li .intro-menu div{
+    margin-left: 1.5rem;
+    margin-right:1.5rem;
+    text-align: center;
+  }
+
+  .intro-menu div a{
+    font-size: 1.3rem;
+    color: 6699CC;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .intro-menu div a i{
+    margin-left: 0.4rem;
+    margin-right: 0.4rem;
+  }
+  .container-fluid .row .col-md-9 {
+    
+  }
+  
+  
+  .resume-section h2{
+    font-family: "Computer Modern";
+    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');
+    font-weight: bold;
+    margin-top: 2.5rem;
+  }
+  
+  
+  section.resume-section {
+    padding-top: 2rem !important;
+    padding-bottom: 0rem !important;
+    max-width: 100rem;
+    font-family: "Computer Modern";
+    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');
+  }
+  
+  section.resume-section .resume-item .resume-content {
+    max-width: 70%;
+  }
+  section.resume-section .resume-item .resume-date {
+    min-width: none;
+  }
+  .resume-section h2 {
+    font-size: 1.4rem;
+  }
+  
+  .resume-section .resume-item .resume-content h3 {
+    font-size: 1.2rem;
+  }
+  .resume-section .resume-item .resume-content div h5 {
+    font-size: 1rem;
+    font-weight: bold;
+  }
+  .resume-section .resume-item .resume-content div h4 {
+    font-weight: bold;
+  }
+  section.resume-section .divider {
+    border-top: 2px solid black;
+  }
+
+  .resume-section .resume-item .resume-date {
+    font-family: Garamond, Baskerville, Baskerville Old Face, Hoefler Text, Times New Roman, serif;
+  }
+  .resume-section .resume-item .resume-date span {
+    color: black;
+  }
+  
+  
+  
+  .resume-section .resume-item h4 {
+    font-size: 1.1rem;
+    
+  }
+  
+  
+  
+  
+  /* Timeline */
+  ul.timeline {
+    list-style: circle;
+  }
+
+  ul.timeline li:before{
+    font-size: 50px;
+  }
+  
+  
+  
+  
+  @media only screen and (min-width: 768px) {
+    
+    
+  }
+  
+  @media only screen and (max-width: 768px) {
+    
+  }
+  
+  @media only screen and (max-width: 972px) {
+    .col-md-3 .intro-email .email-logo {
+      display: none;
+    }
+  }
